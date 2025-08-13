@@ -1,2 +1,2 @@
-"# ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON-Sedaria" 
-"# ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON-Sedaria" 
+Repository of Computer Program developed in Python for our Subject ITCS102 - First Year First Semester
+
